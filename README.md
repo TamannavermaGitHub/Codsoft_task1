@@ -1,4 +1,4 @@
-#**Foodie We Landing Page**
+#**FoodiWe Landing Page**
 
 Welcome to the **FoodieWe Landing Page** project! This repository contains the code for the responsive homepage of Foodie We, designed to showcase our passion for sharing authentic recipes from around the world.
 
