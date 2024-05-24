@@ -57,10 +57,6 @@ We welcome contributions to enhance the FoodieWe Landing Page. If you have sugge
    ```
 5. **Open a pull request** and describe the changes you have made.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
 
 Thank you for visiting the Foodie We Landing Page repository! We hope you enjoy exploring and cooking with our recipes. Happy cooking! 🍽️
